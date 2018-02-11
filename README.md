@@ -33,7 +33,7 @@ Tổng số bài đã làm: 12 / 67
 ### 2004-S
 - [x] 1 Nguyễn Quang Minh
 - [ ] 2 
-- [ ] 3
+- [ ] 3 Nguyễn Tuấn Dũng (82%)
 - [ ] 4
 ### 2005-S
 - [ ] 1
@@ -65,7 +65,7 @@ Tổng số bài đã làm: 12 / 67
 - [x] 2 Ngô Quý Đạt
 - [ ] 3
 ### 2011-S
-- [ ] 1 Nguyễn Quang Minh
+- [ ] 1 Nguyễn Quang Minh (21%)
 - [ ] 2 
 - [ ] 3
 ### 2012-S
