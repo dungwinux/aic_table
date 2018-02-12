@@ -1,6 +1,6 @@
 # AIC
 
-Tổng số bài đã làm: 14 / 67
+Tổng số bài đã làm: 15 / 67
 ### 1998
 - [ ] 1
 - [ ] 2 
@@ -32,7 +32,7 @@ Tổng số bài đã làm: 14 / 67
 - [ ] 4
 ### 2004-S
 - [x] 1 Nguyễn Quang Minh
-- [ ] 2 
+- [x] 2 Ngô Quý Đạt
 - [ ] 3 Nguyễn Tuấn Dũng (82%)
 - [ ] 4
 ### 2005-S
